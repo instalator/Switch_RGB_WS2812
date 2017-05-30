@@ -1,2 +1,2 @@
-# Switch_RGB_WS2812
-Switch RGB WS2812B CAN
+# Switch RGB WS2812
+RGB подсветка выключателей на основе управляемых светодиодов WS2812B.
